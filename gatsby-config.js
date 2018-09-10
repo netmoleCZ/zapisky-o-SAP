@@ -1,26 +1,26 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://condescending-panini-f159a1.netlify.com/',
+    title: 'Blog by netmoleCZ',
+    subtitle: 'notes .',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'články',
         path: '/'
       },
       {
-        label: 'About me',
+        label: 'O mě',
         path: '/about/'
       },
       {
-        label: 'Contact me',
+        label: 'kontaktuj mě',
         path: '/contact/'
       }
     ],
     author: {
-      name: 'John Doe',
+      name: 'netmoleCZ',
       email: '#',
       telegram: '#',
       twitter: '#',
