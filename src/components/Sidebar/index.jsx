@@ -16,13 +16,7 @@ class Sidebar extends React.Component {
     const authorBlock = (
       <div>
         <Link to="/">
-          <img
-            src={profilePic}
-            className="sidebar__author-photo"
-            width="75"
-            height="75"
-            alt={author.name}
-          />
+          
         </Link>
         { isHomePage ? (
           <h1 className="sidebar__author-title">
